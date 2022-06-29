@@ -1,2 +1,2 @@
-[kieferkun22.github.io](Main)
-[kieferkun22.github.io/explorer/](Explorer)
+[Main](kieferkun22.github.io/explorer.htm)
+[Explorer](kieferkun22.github.io/explorer.html)
